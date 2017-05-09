@@ -1,0 +1,6 @@
+/__pycache__
+/venv
+/chrome_profile
+*.log
+*.ofx
+config.yaml

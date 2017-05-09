@@ -1,0 +1,11 @@
+chrome_profile_path: chrome_profile
+credential_provider: keepass
+keepass:
+  kdbx_path: your_keepass_file.kdbx
+  entry_titles:
+    MITFCU: MITFCU
+targets:
+  - name: MITFCU
+    accounts:
+      Checking: mitfcu_checking
+      Savings: mitfcu_savings

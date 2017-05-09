@@ -1,0 +1,3 @@
+pykeepass
+pyyaml
+selenium
